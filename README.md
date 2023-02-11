@@ -8,7 +8,8 @@ Step-1: First, we need to import "requests" module because the requests module a
       - Then import the requests module
       
       
-      ![1](https://user-images.githubusercontent.com/85356809/218278764-fcbc8559-f643-48d4-86f1-2905452014fd.png)
+     ![1](https://user-images.githubusercontent.com/85356809/218278903-597723e8-097c-44fa-9b49-f55a8d4a0aec.png)
+
 
 
 
