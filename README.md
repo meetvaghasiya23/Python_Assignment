@@ -71,7 +71,7 @@ Step-2: We have passed the url to which the connection needs to be made into the
   
   ****Ques-3) Program to Input Id or Username of an user and return the details of that user in the output of the program****
   
-  **#1  To input username of user **
+  **#1  To input username of user**
   
         -> df.query('username=="ervin.rau"')
         
